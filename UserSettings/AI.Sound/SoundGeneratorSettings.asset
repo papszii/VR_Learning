@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.AI.Sound::Unity.AI.Sound.Services.SessionPersistence.SoundGeneratorSettings
   m_Session:
     settings:
-      lastSelectedModelID: 
+      lastSelectedModelID: ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1
       previewSettings:
         sizeFactor: 1
       microphoneSettings:
